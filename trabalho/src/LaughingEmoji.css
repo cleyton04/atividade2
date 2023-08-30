@@ -1,0 +1,12 @@
+.laughing-emoji-container {
+    font-size: 6rem;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .laughing-emoji {
+    display: inline-block;
+    transform: scale(2); /* Ajuste o tamanho do emoji usando transform */
+    transform-origin: center;
+  }
+  
